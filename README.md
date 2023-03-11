@@ -1,3 +1,5 @@
+jekyll 서버 동작 ``` bundle exec jekyll serve ```
+
 <div align="center">
 
   # Chirpy Jekyll Theme
