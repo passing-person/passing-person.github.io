@@ -1,6 +1,6 @@
 ---
 title: 나는 수학이 싫다
-author: person
+author: passing_person
 date: 2023-03-07 17:58:00 +0800
 categories: [Diary]
 tags: [대학, 과제]
