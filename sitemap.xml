@@ -1,103 +1,152 @@
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://localhost:4000/posts/first/</loc>
-<lastmod>2023-03-12T00:41:30+08:00</lastmod>
+  <loc>https://passing-person.github.io/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/assignment/</loc>
-<lastmod>2023-03-12T00:41:30+08:00</lastmod>
+  <loc>https://passing-person.github.io/categories/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/devlog1/</loc>
-<lastmod>2023-03-15T18:02:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/tags/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/diary/</loc>
-<lastmod>2023-03-12T00:41:30+08:00</lastmod>
+  <loc>https://passing-person.github.io/archives/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/diary02/</loc>
-<lastmod>2023-03-12T00:41:30+08:00</lastmod>
+  <loc>https://passing-person.github.io/about/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/diary03/</loc>
-<lastmod>2023-03-12T00:41:30+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/human/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/english_writing/</loc>
-<lastmod>2023-03-13T01:14:00+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/diary04/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/diary04/</loc>
-<lastmod>2023-03-15T18:02:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/english_writing/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/human/</loc>
-<lastmod>2023-03-15T17:00:00+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/diary03/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/categories/</loc>
-<lastmod>2023-03-15T18:06:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/diary02/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
-<lastmod>2023-03-15T18:06:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/diary/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/archives/</loc>
-<lastmod>2023-03-15T18:06:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/devlog1/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
-<lastmod>2023-03-15T18:06:36+08:00</lastmod>
+  <loc>https://passing-person.github.io/posts/assignment/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+  <loc>https://passing-person.github.io/posts/first/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</loc>
+  <loc>https://passing-person.github.io/tags/%EB%8C%80%ED%95%99/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EB%8C%80%ED%95%99/</loc>
+  <loc>https://passing-person.github.io/tags/%EA%B2%8C%EC%9E%84/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EA%B3%BC%EC%A0%9C/</loc>
+  <loc>https://passing-person.github.io/tags/%EA%B3%BC%EC%A0%9C/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EA%B2%8C%EC%9E%84/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%B1%85/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EA%B0%9C%EB%B0%9C/</loc>
+  <loc>https://passing-person.github.io/tags/project-shield-%EA%B0%80%EC%B9%AD/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/project-shield-%EA%B0%80%EC%B9%AD/</loc>
+  <loc>https://passing-person.github.io/tags/%EA%B0%9C%EB%B0%9C/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%82%AC%EC%A7%84/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%82%AC%EC%A7%84/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%8A%A4%ED%83%80%EB%93%80%EB%B0%B8%EB%A6%AC/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%8A%A4%ED%83%80%EB%93%80%EB%B0%B8%EB%A6%AC/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%97%90%EC%84%B8%EC%9D%B4/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%97%90%EC%84%B8%EC%9D%B4/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%B1%85/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%9D%B8%EA%B0%84-%EC%8B%A4%EA%B2%A9/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/%EC%9D%B8%EA%B0%84-%EC%8B%A4%EA%B2%A9/</loc>
+  <loc>https://passing-person.github.io/categories/dev/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://localhost:4000/categories/diary/</loc>
+  <loc>https://passing-person.github.io/categories/diary/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://localhost:4000/categories/dev/</loc>
+  <loc>https://passing-person.github.io/categories/%EB%8F%85%ED%9B%84%EA%B0%90/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://localhost:4000/categories/%EB%8F%85%ED%9B%84%EA%B0%90/</loc>
+  <loc>https://passing-person.github.io/tags/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</loc>
+  <lastmod>2023-03-15T10:13:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>http://localhost:4000/googledd019693d5604a05.html</loc>
-<lastmod>2023-03-15T18:02:06+08:00</lastmod>
-</url>
+
+
 </urlset>
