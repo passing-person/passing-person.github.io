@@ -1,7 +1,7 @@
 ---
 
 title: 첫 포스트
-date: 2026-06-08 12:00:00 +0900
+date: 2026-06-07 00:01:00 +0900
 categories: [Devlog, Blog]
 tags: [chirpy, github-pages, first-post]
 description: 블로그 시작과 앞으로 올릴 게임 기록에 대한 첫 글
