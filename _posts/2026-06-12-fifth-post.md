@@ -1,7 +1,7 @@
 ---
 
 title: 균열 골렘, DB 연결기, 설정 UI, 아이콘 정리
-date: 2026-06-12 01:00:00 +0900
+date: 2026-06-12 00:45:00 +0900
 categories: [Devlog]
 tags: [unity, card-game, combat, scriptableobject, ui, pixel-art]
 description: 균열 골렘 전투 구조를 정리하고, DB 자동 연결기와 설정 UI 코드를 추가했으며, 카드/인챈트/상태이상 아이콘을 정리했다.
